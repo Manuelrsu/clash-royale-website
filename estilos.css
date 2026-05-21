@@ -1,8 +1,11 @@
+html{
+    scroll-behavior: smooth;
+}
+
 body {
     margin: 0;
     font-family: "Outfit", sans-serif;
     background: #0d1117;
-    scroll-behavior: smooth;
 }
 
 
