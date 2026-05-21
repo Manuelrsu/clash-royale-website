@@ -2,6 +2,7 @@ body {
     margin: 0;
     font-family: "Outfit", sans-serif;
     background: #0d1117;
+    scroll-behavior: smooth;
 }
 
 
@@ -52,6 +53,7 @@ body {
     font-weight: bold;
     transition: 0.3s;
     cursor: pointer;
+    text-decoration: none;
 }
 
 
